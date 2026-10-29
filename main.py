@@ -21,7 +21,7 @@ with open(SETTINGS_PATH, 'r') as f:
     
     #program settings
     program_settings = settings.get("program", {})
-    program_title = program_settings.get("title", "29EKIMCUMHURIYETBAYRAMI")
+    program_title = program_settings.get("title", "CharVortex")
     background_color = program_settings.get("background_color", "black")
     
     
