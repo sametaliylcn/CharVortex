@@ -1,5 +1,6 @@
 import json
 import tkinter as tk
+import os
 
 from utils.imageDrawingClass import ImageDrawing
 

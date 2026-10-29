@@ -1,13 +1,13 @@
 {
     "program": {
-        "title": "",
+        "title": "CharVortex",
         "background_color": "black"
     },
     "image": {
         "path": "",
         "pixel_size": 7,
         "speed": 200,
-        "character_set": "ABCDEFG1234"
+        "character_set": "ABCDEFG12345678"
     },
     "signature": "sametaliyalcin"
 }
