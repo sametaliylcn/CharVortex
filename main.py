@@ -14,7 +14,7 @@ with open(SETTINGS_PATH, 'r') as f:
     image_path = image_settings.get("path", None)
     pixel_size = image_settings.get("pixel_size", 7)
     speed = image_settings.get("speed", 200)
-    character_set = image_settings.get("character_set", "29EKIMCUMHURIYETBAYRAMI")
+    character_set = image_settings.get("character_set", "sametaliyalcin")
     
     #signature
     signature = settings.get("signature", "sametaliyalcin")
